@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="left">🛠️ I’m currently working on: Financial Realization App (Docker + Laravel + React + PostgreSQL)<br>🤝 I’m looking to collaborate on: Backend projects, UI/UX design, or open-source apps<br>🙌 I’m looking for help with: Improving CI/CD pipelines & deployment (Docker, Nginx, Portainer)<br>🌱 I’m currently learning: Unity basics, Japanese language, and advanced backend development<br>💬 Ask me about: UI/UX design, video editing, and Laravel backend<br>⚡ Fun fact: I’m a Valorant player stuck at Silver rank but still grinding 😅</p>
 
 ###
@@ -57,4 +56,3 @@
 ###
 =======
 # Tedy-Irfan
->>>>>>> d85a53d8467f06f8f2f82c4aa4c2f87ef2d89c03
