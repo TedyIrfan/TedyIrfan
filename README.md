@@ -54,5 +54,3 @@
 </picture>
 
 ###
-=======
-# Tedy-Irfan
